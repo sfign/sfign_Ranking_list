@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-02 21:30 | 2026-W45 | #4 [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)<br><sub>Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, G…</sub> | 25,832 | +5,034 | Python | [sfign/claude-seo](https://github.com/sfign/claude-seo) |
 | 2026-11-01 19:50 | 2026-W44 | #9 [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)<br><sub>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM c…</sub> | 227,728 | +4,277 | — | [sfign/andrej-karpathy-skills](https://github.com/sfign/andrej-karpathy-skills) |
 | 2026-10-28 16:30 | 2026-W44 | #9 [stablyai/orca](https://github.com/stablyai/orca)<br><sub>Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with…</sub> | 108,417 | +8,802 | TypeScript | [sfign/orca](https://github.com/sfign/orca) |
 | 2026-10-27 21:20 | 2026-W44 | #6 [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br><sub>Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphi…</sub> | 136,621 | +7,183 | Python | [sfign/graphify](https://github.com/sfign/graphify) |
