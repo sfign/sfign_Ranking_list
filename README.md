@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-10 21:40 | 2026-W46 | #5 [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)<br><sub>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</sub> | 12,347 | +2,395 | Rust | [sfign/worktrunk](https://github.com/sfign/worktrunk) |
 | 2026-11-07 11:20 | 2026-W45 | #4 [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)<br><sub>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</sub> | 11,815 | +2,184 | Rust | [sfign/worktrunk](https://github.com/sfign/worktrunk) |
 | 2026-11-02 21:30 | 2026-W45 | #4 [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)<br><sub>Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, G…</sub> | 25,832 | +5,034 | Python | [sfign/claude-seo](https://github.com/sfign/claude-seo) |
 | 2026-11-01 19:50 | 2026-W44 | #9 [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)<br><sub>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM c…</sub> | 227,728 | +4,277 | — | [sfign/andrej-karpathy-skills](https://github.com/sfign/andrej-karpathy-skills) |
