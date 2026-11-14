@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-14 19:50 | 2026-W46 | #6 [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)<br><sub>LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-s…</sub> | 72,061 | +3,778 | Python | [sfign/daily_stock_analysis](https://github.com/sfign/daily_stock_analysis) |
 | 2026-11-12 09:00 | 2026-W46 | #10 [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)<br><sub>Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination…</sub> | 38,474 | +3,150 | Shell | [sfign/Claude-Code-Game-Studios](https://github.com/sfign/Claude-Code-Game-Studios) |
 | 2026-11-11 08:50 | 2026-W46 | #6 [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)<br><sub>Browser automation CLI for AI agents</sub> | 49,213 | +3,606 | Rust | [sfign/agent-browser](https://github.com/sfign/agent-browser) |
 | 2026-11-10 21:40 | 2026-W46 | #5 [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)<br><sub>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</sub> | 12,347 | +2,395 | Rust | [sfign/worktrunk](https://github.com/sfign/worktrunk) |
