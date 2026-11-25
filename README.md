@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-25 13:20 | 2026-W48 | #5 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)<br><sub>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthe…</sub> | 74,423 | +5,369 | Python | [sfign/last30days-skill](https://github.com/sfign/last30days-skill) |
 | 2026-11-22 18:30 | 2026-W47 | #6 [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)<br><sub>Chrome DevTools for coding agents</sub> | 58,750 | +2,795 | TypeScript | [sfign/chrome-devtools-mcp](https://github.com/sfign/chrome-devtools-mcp) |
 | 2026-11-21 16:20 | 2026-W47 | #4 [alibaba/open-code-review](https://github.com/alibaba/open-code-review)<br><sub>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministi…</sub> | 54,891 | +4,457 | Go | [sfign/open-code-review](https://github.com/sfign/open-code-review) |
 | 2026-11-18 16:20 | 2026-W47 | #7 [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)<br><sub>A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 dis…</sub> | 10,037 | +2,508 | Python | [sfign/Claude-BugHunter](https://github.com/sfign/Claude-BugHunter) |
