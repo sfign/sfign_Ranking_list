@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-28 21:20 | 2026-W48 | #4 [n8n-io/nod](https://github.com/n8n-io/nod)<br><sub>Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on…</sub> | 4,597 | +1,424 | TypeScript | [sfign/nod](https://github.com/sfign/nod) |
 | 2026-11-27 15:40 | 2026-W48 | #10 [meta/astryx](https://github.com/meta/astryx)<br><sub>An open source design system that's fully customizable and agent ready</sub> | 33,421 | +2,519 | TypeScript | [sfign/astryx](https://github.com/sfign/astryx) |
 | 2026-11-26 20:10 | 2026-W48 | #8 [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)<br><sub>Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars…</sub> | 8,523 | +1,422 | Python | [sfign/claude-trading-skills](https://github.com/sfign/claude-trading-skills) |
 | 2026-11-25 13:20 | 2026-W48 | #5 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)<br><sub>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthe…</sub> | 74,423 | +5,369 | Python | [sfign/last30days-skill](https://github.com/sfign/last30days-skill) |
